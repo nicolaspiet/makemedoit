@@ -98,7 +98,6 @@ const TasksScreen = () => {
             description: Yup.string()
                 .min(10, "Description must be at least 10 characters long")
                 .max(110, "Description must be at most 110 characters long")
-                .required("Description is required")
         }),
         onSubmit: values => {
             HandleEditTask(values);
