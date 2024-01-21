@@ -1,2 +1,3 @@
 # Simple todo-list site built with React
-[makemedoit](https://makemedoit.onrender.com)
+This [website](https://makemedoit.onrender.com) is made using **MERN** stack (**MongoDB**, **ExpressJS**, **React**, **NodeJS**)
+
